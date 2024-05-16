@@ -1,4 +1,4 @@
-# Project Name
+# Fortnite LRC Project
 
 A short description of what your project does.
 
