@@ -6,7 +6,8 @@ Fortnite-LRC-Project is a groundbreaking initiative dedicated to enhancing the F
 
 | ![Placeholder Image](https://static.wikia.nocookie.net/fortnite/images/3/3b/Save_the_World_-_Music_-_Fortnite.png/revision/latest?cb=20220216210710) | ![Placeholder Image](https://static.wikia.nocookie.net/fortnite/images/3/3b/Save_the_World_-_Music_-_Fortnite.png/revision/latest?cb=20220216210710) |
 |---|---|
-| [Song Name 1](/completed/song1.md) | [Song Name 2](/completed/song2.md) |
+| Song Name 1 | [Song 1](/completed/song1.md) |
+| Song Name 2 | [Song 2](/completed/song2.md) |
 
 ## Incomplete Songs
 
