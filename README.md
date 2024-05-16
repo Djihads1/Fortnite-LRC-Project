@@ -1,19 +1,15 @@
 # Fortnite-LRC-Project
 
-A project to add LRC lyrics support for Fortnite lobby tracks and other parts of the OST the video-game has to offer
+Fortnite-LRC-Project is a groundbreaking initiative dedicated to enhancing the Fortnite gaming experience by seamlessly integrating synchronized lyrics from LRC files into the game's lobby tracks.
 
 ## Completed Songs
 
-!Completed Song
+| ![Placeholder Image](https://static.wikia.nocookie.net/fortnite/images/3/3b/Save_the_World_-_Music_-_Fortnite.png/revision/latest?cb=20220216210710) | ![Placeholder Image](https://static.wikia.nocookie.net/fortnite/images/3/3b/Save_the_World_-_Music_-_Fortnite.png/revision/latest?cb=20220216210710) |
+|---|---|
+| Song Name | [Link](#) |
 
-- Song Name
+## Incomplete Songs
 
-## In-Progress
-
-!In Progress 1
-!In Progress 2
-!In Progress 3
-
-- Song Name
-- Song Name
-- Song Name
+| ![Placeholder Image](https://static.wikia.nocookie.net/fortnite/images/3/3b/Save_the_World_-_Music_-_Fortnite.png/revision/latest?cb=20220216210710) | ![Placeholder Image](https://static.wikia.nocookie.net/fortnite/images/3/3b/Save_the_World_-_Music_-_Fortnite.png/revision/latest?cb=20220216210710) |
+|---|---|
+| Song Name | Song Name |
