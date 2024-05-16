@@ -1,6 +1,6 @@
-# Fortnite-LRC-Project
 
-Fortnite-LRC-Project is a groundbreaking initiative dedicated to enhancing the Fortnite gaming experience by seamlessly integrating synchronized lyrics from LRC files into the game's lobby tracks.
+
+A project to add LRC Lyrics support for Fortnite lobby tracks and other parts of the OST the video-game has to offer
 
 ## Completed Songs
 
