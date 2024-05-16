@@ -4,7 +4,7 @@ A short description of what your project does.
 
 **Banner**
 
-[!Banner Image](banner_image_source) 
+[!Banner Image](https://static.wikia.nocookie.net/fortnite/images/3/3b/Save_the_World_-_Music_-_Fortnite.png/revision/latest?cb=20220216210710) 
 
 **Table of Contents**
 
